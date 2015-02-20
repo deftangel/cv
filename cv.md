@@ -1,6 +1,6 @@
 # Chris Hunter-Brown #
 
-9 Boulter Gardens, Rainham, Essex, RM13 7QD
+9 Boulter Gardens, Rainham, Essex, RM13 7QD  
 deftangel@gmail.com  
 +44 7920 055493
 
@@ -36,7 +36,7 @@ Developed version 2.0 of Protecta, a product selector for fire prevention produc
 May 2003 - August 2005  
 Primary support contact for 1000+ users of wildly varying computer literacy using bespoke computer assisted interviewing systems for fieldwork in the UK. Also Windows/Office desktop support for approximately 100 users on site in Brentwood. Additionally responsible for provisioning of field laptops. Some development in Microsoft Access and programming of scripts to manage project installations on field PC’s.
 
-**SAP Training Manager @ [Homebase][homebase]**  
+**SAP Training Manager @ [Homebase Ltd][homebase]**  
 May 2002 - May 2003  
 Responsible for staff training requirements in store during major roll-out from legacy systems to a SAP implementation. Eventually this role expanded to cover the Essex region where I undertook additional training and preparatory work at other stores. This included briefing store and regional management on the benefits of the new system and assisting them with their implementation plan.
 
@@ -47,10 +47,10 @@ Professional Graduate Diploma in IT
 Currently completed to diploma level, pending dissertation to graduate
 
 **Goldsmiths College, University of London**  
-1998 - 2001  
-BSc Maths and Computing  
+1998 - 2000  
+BSc Computing with Maths
 
-**Havering Sixth Form College**
+**Havering Sixth Form College**  
 1996 - 1998  
 A Levels in Maths, Physics, Computer Science and Further Maths
 
